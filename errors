@@ -1,0 +1,159 @@
+3.10
+
+
+COMMENT (SELENIUM IDE) Incorrect word verification entry! You should have entered "80671", but you did ""
+Element with locator css=.ok_msg could not be found
+
+
+
+
+COMMENT (SELENIUM Java) 
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":".ok_msg"}
+
+
+=============================================================================================================================================
+3.13
+
+
+COMMENT (SELENIUM IDE) 
+Element with locator css=.ok_msg could not be found
+
+RATING(SELENIUM IDE)
+Actual value "Modify your rating:" did not match "Your rating saved!"
+
+
+
+
+COMMENT (SELENIUM Java) 
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":".ok_msg"}
+
+=============================================================================================================================================
+3.20
+
+Tutte tranne 14-15-16 (SELENIUM IDE)
+Trying to find linkText=Admin... 
+Warning Element found with secondary locator css=.item:nth-child(4) > a. To use it by default, update the test step to use it as the primary locator.
+
+COMMENT / RATING(SELENIUM IDE)
+click on css=.submenu:nth-child(2) img Failed:
+Exceeded waiting time for new window to appear 2000ms
+
+
+
+
+
+DELETE category (SELENIUM JAVA)
+org.openqa.selenium.NoAlertPresentException: no such alert
+
+DELETE STORY (SELENIUM JAVA)
+org.openqa.selenium.NoAlertPresentException: no such alert
+
+DELETE PHOTO (SELENIUM JAVA)
+org.opentest4j.AssertionFailedError: 
+Expected :Photo "New photo" (PhotoID: 2) deleted successfully!
+Actual   :Photo "New photo" (PID: 2) deleted successfully!
+
+COMMENT (SELENIUM Java) 
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":".ok_msg"}
+
+
+LOGOUT (SELENIUM JAVA)
+org.opentest4j.AssertionFailedError: 
+Expected :-1
+Actual   :19
+
+=============================================================================================================================================
+3.30
+
+Tutte tranne 14-15-16 (SELENIUM IDE)
+Trying to find linkText=Admin... 
+Warning Element found with secondary locator css=.item:nth-child(4) > a. To use it by default, update the test step to use it as the primary locator.
+
+COMMENT / RATING(SELENIUM IDE)
+click on css=.submenu:nth-child(2) img Failed:
+Exceeded waiting time for new window to appear 2000ms
+
+
+
+
+
+
+LOGIN (SELENIUM JAVA)
+org.opentest4j.AssertionFailedError: 
+Expected :The Administration Region
+Actual   :Administration Region
+
+DELETE category (SELENIUM JAVA)
+org.openqa.selenium.NoAlertPresentException: no such alert
+
+DELETE STORY (SELENIUM JAVA)
+org.openqa.selenium.NoAlertPresentException: no such alert
+
+ADDNEWPHOTO (SELENIUM JAVA)
+org.openqa.selenium.NoSuchFrameException: No frame element found by name or id upload_iframe
+
+MODIFYPHOTO (SELENIUM JAVA)
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"*[name='regetSrc']"}
+
+COMMENT (SELENIUM JAVA)
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="maincolinner"]/div/div[2]/div/center/a"}
+
+SELECTRATEPHOTO (SELENIUM JAVA)
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"*[name='rate']"}
+
+DELETE PHOTO (SELENIUM JAVA)
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="Granny"]/div[2]/div[3]/div[2]/table/tbody/tr/td[1]/div[2]/div[1]/a[2]"}
+
+LOGOUT (SELENIUM JAVA)
+org.opentest4j.AssertionFailedError: 
+Expected :-1
+Actual   :30
+
+=============================================================================================================================================
+3.31
+
+
+Tutte tranne 14-15-16 (SELENIUM IDE)
+Trying to find linkText=Admin... 
+Warning Element found with secondary locator css=.item:nth-child(4) > a. To use it by default, update the test step to use it as the primary locator.
+
+COMMENT / RATING(SELENIUM IDE)
+click on css=.submenu:nth-child(2) img Failed:
+Exceeded waiting time for new window to appear 2000ms
+
+
+LOGIN (SELENIUM JAVA)
+org.opentest4j.AssertionFailedError: 
+Expected :The Administration Region
+Actual   :Administration Region
+
+DELETE category (SELENIUM JAVA)
+org.openqa.selenium.NoAlertPresentException: no such alert
+
+DELETE STORY (SELENIUM JAVA)
+org.openqa.selenium.NoAlertPresentException: no such alert
+
+ADDNEWPHOTO (SELENIUM JAVA)
+org.openqa.selenium.NoSuchFrameException: No frame element found by name or id upload_iframe
+
+MODIFYPHOTO (SELENIUM JAVA)
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"*[name='regetSrc']"}
+
+COMMENT (SELENIUM JAVA)
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="maincolinner"]/div/div[2]/div/center/a"}
+
+SELECTRATEPHOTO (SELENIUM JAVA)
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"*[name='rate']"}
+
+DELETE PHOTO (SELENIUM JAVA)
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="Granny"]/div[2]/div[3]/div[2]/table/tbody/tr/td[1]/div[2]/div[1]/a[2]"}
+
+LOGOUT (SELENIUM JAVA)
+org.opentest4j.AssertionFailedError: 
+Expected :-1
+Actual   :39
+
+
+
+
+

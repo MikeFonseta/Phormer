@@ -19,3 +19,9 @@ docker run -d -p 80:80 --name phormer phormer
 ```
 docker stop phormer
 ```
+
+## Test Selenium WebDriver con Java e JUnit
+Progetto nella cartella JavaTests
+
+## Test SeleniumIDE
+Aprire Phormer.side con SeleniumIDE

@@ -14,5 +14,8 @@ Per avviare l'applicativo:
 ```
 docker build -t phormer .
 docker run -d -p 80:80 --name phormer phormer
+```
+## Terminare applicativo
+```
 docker stop phormer
 ```
